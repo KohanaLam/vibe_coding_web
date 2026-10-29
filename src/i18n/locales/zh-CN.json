@@ -1,0 +1,75 @@
+{
+  "app": {
+    "title": "Vibe Board",
+    "slogan": "轻量级看板应用"
+  },
+  "view": {
+    "board": "看板",
+    "timeline": "时间线"
+  },
+  "column": {
+    "todo": "待办",
+    "inProgress": "进行中",
+    "review": "审查中",
+    "done": "已完成"
+  },
+  "task": {
+    "title": "标题",
+    "description": "描述",
+    "priority": "优先级",
+    "type": "类型",
+    "status": "状态",
+    "startDate": "开始日期",
+    "dueDate": "截止日期",
+    "createdAt": "创建时间",
+    "updatedAt": "更新时间",
+    "high": "高",
+    "medium": "中",
+    "low": "低",
+    "story": "用户故事",
+    "task": "任务",
+    "bug": "缺陷",
+    "noTasks": "暂无任务",
+    "dragTip": "拖拽任务卡片可以移动或排序"
+  },
+  "action": {
+    "create": "创建",
+    "edit": "编辑",
+    "delete": "删除",
+    "save": "保存",
+    "cancel": "取消",
+    "confirm": "确认",
+    "close": "关闭",
+    "add": "添加",
+    "remove": "移除",
+    "search": "搜索",
+    "filter": "筛选",
+    "sort": "排序",
+    "export": "导出",
+    "import": "导入"
+  },
+  "message": {
+    "createSuccess": "创建成功",
+    "updateSuccess": "更新成功",
+    "deleteSuccess": "删除成功",
+    "deleteConfirm": "确定要删除这个任务吗？",
+    "deleteTitle": "删除确认",
+    "required": "必填项",
+    "invalidDate": "日期格式无效",
+    "saveFailed": "保存失败",
+    "loadFailed": "加载失败"
+  },
+  "setting": {
+    "language": "语言",
+    "theme": "主题",
+    "light": "亮色",
+    "dark": "暗色",
+    "chinese": "中文",
+    "english": "English"
+  },
+  "placeholder": {
+    "taskTitle": "请输入任务标题",
+    "taskDescription": "请输入任务描述（支持 Markdown）",
+    "search": "搜索任务..."
+  }
+}

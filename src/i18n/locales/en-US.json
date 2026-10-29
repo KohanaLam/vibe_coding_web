@@ -1,0 +1,75 @@
+{
+  "app": {
+    "title": "Vibe Board",
+    "slogan": "Lightweight Board App"
+  },
+  "view": {
+    "board": "Board",
+    "timeline": "Timeline"
+  },
+  "column": {
+    "todo": "To Do",
+    "inProgress": "In Progress",
+    "review": "Review",
+    "done": "Done"
+  },
+  "task": {
+    "title": "Title",
+    "description": "Description",
+    "priority": "Priority",
+    "type": "Type",
+    "status": "Status",
+    "startDate": "Start Date",
+    "dueDate": "Due Date",
+    "createdAt": "Created At",
+    "updatedAt": "Updated At",
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low",
+    "story": "Story",
+    "task": "Task",
+    "bug": "Bug",
+    "noTasks": "No tasks",
+    "dragTip": "Drag task cards to move or reorder"
+  },
+  "action": {
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "add": "Add",
+    "remove": "Remove",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "export": "Export",
+    "import": "Import"
+  },
+  "message": {
+    "createSuccess": "Created successfully",
+    "updateSuccess": "Updated successfully",
+    "deleteSuccess": "Deleted successfully",
+    "deleteConfirm": "Are you sure you want to delete this task?",
+    "deleteTitle": "Delete Confirmation",
+    "required": "Required field",
+    "invalidDate": "Invalid date format",
+    "saveFailed": "Save failed",
+    "loadFailed": "Load failed"
+  },
+  "setting": {
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "chinese": "中文",
+    "english": "English"
+  },
+  "placeholder": {
+    "taskTitle": "Enter task title",
+    "taskDescription": "Enter task description (Markdown supported)",
+    "search": "Search tasks..."
+  }
+}
