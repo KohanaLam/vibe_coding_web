@@ -12,6 +12,7 @@ import './i18n'
 // Import tests (only run in development)
 import './utils/storage.test'
 import './store/taskStore.test'
+import './store/appStore.test'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
