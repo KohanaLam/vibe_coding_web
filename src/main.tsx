@@ -9,8 +9,9 @@ import './styles/global.css'
 // Import i18n configuration
 import './i18n'
 
-// Import storage test (only runs in development)
+// Import tests (only run in development)
 import './utils/storage.test'
+import './store/taskStore.test'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
